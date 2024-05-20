@@ -1,4 +1,4 @@
-# Stephenson_Threat_Hunter
+# Stephenson-Threat-Hunter
 
 ## Description
 
