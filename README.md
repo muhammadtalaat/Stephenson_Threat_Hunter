@@ -18,9 +18,9 @@ The Stephenson PowerShell script provides a comprehensive toolkit for threat hun
 ### For Remote Scan
 
 1. **Firewall Rules**:
-   - Allow inbound port TCP-135 (in Windows firewall, endpoint firewall, and network firewalls).
+   - Allow inbound port TCP-135 (Windows firewall, endpoint firewall, and network firewalls).
    - Permit outbound random ports ranging from 1022-5000 and 49152-65535.
-   - Ensure inbound port TCP-445 for SMB (RPC dependency) is open.
+   - Ensure inbound port TCP-445 for SMB (RPC dependency) is opened.
 
 2. **High-Privilege User**:
    - Use a user account with high privileges for remote registry access and event log reading.
