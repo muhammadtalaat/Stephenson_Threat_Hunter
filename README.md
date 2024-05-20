@@ -38,7 +38,7 @@ Open PowerShell with administrative privileges and set the execution policy to a
 
 ```sh
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-
+```
 # Usage
 
 ## Run the Script
