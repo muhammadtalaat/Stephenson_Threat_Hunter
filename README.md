@@ -57,7 +57,7 @@ Open PowerShell with administrative privileges and set the execution policy to a
 1. Choose between local or remote scanning.
 2. Select the type of scan (Registry, Event Viewer, File, or Hash).
 3. Provide necessary inputs such as registry paths, log names, file paths, and hash file paths based on the selected scan type.
-4. Review and export the scan results, which will be saved in CSV format.
+4. Review and export the scan results, which will be saved in CSV format on C:\.
 
 ## Screenshots
 
