@@ -28,6 +28,7 @@ The Stephenson PowerShell script provides a comprehensive toolkit for threat hun
 ### For Local Scan
 
 1. **High-Privilege User**:
+   
    - Use a user account with high privileges for remote registry access and event log reading.
 
 ## Installation
