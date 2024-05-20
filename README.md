@@ -2,7 +2,7 @@
 
 ## Description
 
-This PowerShell script is designed to facilitate threat hunting by scanning local and remote systems for various indicators of compromise (IOCs) such as registry keys, event log entries, files, and hashes. The script can be executed either locally or remotely, providing flexibility in how threat hunting activities are conducted.
+The Stephenson PowerShell script provides a comprehensive toolkit for threat hunters to scan and identify potential security threats within their network. Whether it's searching for malicious registry keys, identifying suspicious event log entries, locating specific files, or validating file hashes against known threats, this script streamlines the threat detection process with automated, customizable scans and detailed CSV reports.
 
 ## Key Features
 
@@ -39,7 +39,7 @@ Open PowerShell with administrative privileges and set the execution policy to a
 ```sh
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ```
-# Usage
+## Usage
 
 ## Run the Script
 
@@ -66,10 +66,6 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 ### Local Registry Scan
 
 ### Remote Event Viewer Scan
-
-## Mini Description
-
-The Stephenson PowerShell script provides a comprehensive toolkit for threat hunters to scan and identify potential security threats within their network. Whether it's searching for malicious registry keys, identifying suspicious event log entries, locating specific files, or validating file hashes against known threats, this script streamlines the threat detection process with automated, customizable scans and detailed CSV reports.
 
 ## License
 
