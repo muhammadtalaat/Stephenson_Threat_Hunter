@@ -1,4 +1,4 @@
-# Stephenson-Threat-Hunter
+# Stephenson-Hunter
 
 ## Description
 
