@@ -63,9 +63,15 @@ Open PowerShell with administrative privileges and set the execution policy to a
 
 #### Initial Prompt
 
+![image](https://github.com/muhammadtalaat/Stephenson_Threat_Hunter/assets/167099589/1a5dc44c-279f-41b2-b1be-c0c496d8e161)
+
 #### Local Scan
 
+![image](https://github.com/muhammadtalaat/Stephenson_Threat_Hunter/assets/167099589/567fb534-022d-4050-ae05-fd78f14f84fb)
+
 #### Remote Scan
+
+![image](https://github.com/muhammadtalaat/Stephenson_Threat_Hunter/assets/167099589/01965817-0734-4138-b45b-53d5706100fa)
 
 ## License
 
