@@ -36,9 +36,9 @@ The Stephenson PowerShell script provides a comprehensive toolkit for threat hun
 
 Open PowerShell with administrative privileges and set the execution policy to allow running the script.
 
-```sh
-Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-```
+   ```sh
+   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+   ```
 ## Usage
 
 ## Run the Script
@@ -61,11 +61,11 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 ## Screenshots
 
-### Initial Prompt
+#### Initial Prompt
 
-### Local Registry Scan
+#### Local Scan
 
-### Remote Event Viewer Scan
+#### Remote Scan
 
 ## License
 
