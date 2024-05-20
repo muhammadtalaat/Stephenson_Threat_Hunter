@@ -25,6 +25,11 @@ This PowerShell script is designed to facilitate threat hunting by scanning loca
 2. **High-Privilege User**:
    - Use a user account with high privileges for remote registry access and event log reading.
 
+### For Remote Scan
+
+1. **High-Privilege User**:
+   - Use a user account with high privileges for remote registry access and event log reading.
+
 ## Installation
 
 ### Ensure PowerShell Execution Policy
